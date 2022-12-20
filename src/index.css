@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.framer_image {
+  /* background-image: url("https://cdn.pixabay.com/photo/2021/01/03/13/55/christmas-tree-5884606_960_720.jpg"); */
+  width: 200px;
+  height: 400px;
+  background-color: "red";
+  /* background-position: 100% 100%;
+    background-size: cover; */
+}
